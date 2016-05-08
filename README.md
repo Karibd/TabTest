@@ -1,2 +1,3 @@
-<a href="https://google.com" target="_blank">ZX</a>
-a[link]("http://google.com"){:target="_blank"}
+
+
+[Link](https://example.org/ "title" target="_blank")
